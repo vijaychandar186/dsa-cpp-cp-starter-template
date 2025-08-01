@@ -10,10 +10,10 @@
                     "size": 744,
                     "groups": [
                         {
-                            "size": 323
+                            "size": 322
                         },
                         {
-                            "size": 323
+                            "size": 324
                         }
                     ]
                 }
@@ -21,17 +21,17 @@
         },
         "documents": [
             {
-                "fsPath": "/workspaces/dsa-cpp-cp-setup/main.cpp",
+                "relativePath": "main.cpp",
                 "column": 1,
                 "pinned": false
             },
             {
-                "fsPath": "/workspaces/dsa-cpp-cp-setup/input.txt",
+                "relativePath": "input.txt",
                 "column": 2,
                 "pinned": false
             },
             {
-                "fsPath": "/workspaces/dsa-cpp-cp-setup/output.txt",
+                "relativePath": "output.txt",
                 "column": 3,
                 "pinned": false
             }
