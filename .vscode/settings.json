@@ -1,0 +1,40 @@
+{
+    "layoutSaver.layout": {
+        "layout": {
+            "orientation": 0,
+            "groups": [
+                {
+                    "size": 744
+                },
+                {
+                    "size": 744,
+                    "groups": [
+                        {
+                            "size": 323
+                        },
+                        {
+                            "size": 323
+                        }
+                    ]
+                }
+            ]
+        },
+        "documents": [
+            {
+                "fsPath": "/workspaces/dsa-cpp-cp-setup/main.cpp",
+                "column": 1,
+                "pinned": false
+            },
+            {
+                "fsPath": "/workspaces/dsa-cpp-cp-setup/input.txt",
+                "column": 2,
+                "pinned": false
+            },
+            {
+                "fsPath": "/workspaces/dsa-cpp-cp-setup/output.txt",
+                "column": 3,
+                "pinned": false
+            }
+        ]
+    }
+}
